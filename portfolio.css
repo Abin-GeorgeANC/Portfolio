@@ -1,0 +1,71 @@
+.wholepage{
+    display:flex;
+    height:50;
+
+}
+
+.leftdiv{
+    flex:1;
+    width:900px;
+    margin:auto;
+    height:auto; 
+    background:black;
+    color:white;
+  
+    
+
+}
+.rightdiv{
+    flex:4;
+    margin:auto;
+    height:auto; 
+    background-color: rgb(255, 255, 255);
+}
+
+.namehead{
+    margin-top:30px;
+    padding: 10px;
+    
+    background-color: rgb(214, 132, 9);
+}
+.whitepart{
+    padding: 10px;
+}
+
+.workenclose{
+    display:flex;
+    flex-direction: column;
+}
+
+.work1{
+    display: flex;
+
+}
+.date1{
+    flex: 1;
+}
+.exppart{
+    flex:4;
+    
+}
+
+.work2{
+    display: flex;
+}
+.date2{
+    flex: 1;
+}
+.exppart1{
+    flex:4;
+    
+}
+
+.hrc{
+    border-style: double;
+}
+
+.withoutimg
+{
+    padding: 10px;
+}
+
